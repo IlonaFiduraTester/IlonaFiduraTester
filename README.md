@@ -1,6 +1,6 @@
 Welcome to Ilona's Manual Testing Journey! 🚀
  
- 🌐 About Me
+ 🌐 About Me:
 Hey there! I'm Ilona, a passionate individual on a mission to become a skilled manual tester. I believe in the power of quality assurance to ensure seamless user experiences, and I'm excited to share my learning journey with you.
 
  📘 Learning Path
